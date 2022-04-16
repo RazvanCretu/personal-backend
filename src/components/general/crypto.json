@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_general_cryptos",
+  "info": {
+    "displayName": "Crypto",
+    "icon": "dollar-sign"
+  },
+  "options": {},
+  "attributes": {
+    "Asset": {
+      "displayName": "Asset",
+      "type": "component",
+      "repeatable": true,
+      "component": "general.asset"
+    }
+  }
+}

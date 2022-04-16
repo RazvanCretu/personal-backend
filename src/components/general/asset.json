@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_general_assets",
+  "info": {
+    "displayName": "Asset",
+    "icon": "shapes",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "adress": {
+      "type": "text"
+    }
+  }
+}
