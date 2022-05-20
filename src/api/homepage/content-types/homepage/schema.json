@@ -12,16 +12,20 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "About": {
-      "displayName": "About",
-      "type": "component",
-      "repeatable": false,
-      "component": "general.about"
+    "first_name": {
+      "type": "string"
     },
-    "Crypto": {
+    "last_name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "holdings": {
+      "displayName": "Asset",
       "type": "component",
-      "repeatable": false,
-      "component": "general.crypto"
+      "repeatable": true,
+      "component": "crypto.asset"
     }
   }
 }

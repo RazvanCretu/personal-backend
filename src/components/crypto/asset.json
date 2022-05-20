@@ -1,17 +1,16 @@
 {
-  "collectionName": "components_general_assets",
+  "collectionName": "components_crypto_assets",
   "info": {
     "displayName": "Asset",
-    "icon": "shapes",
-    "description": ""
+    "icon": "adjust"
   },
   "options": {},
   "attributes": {
     "name": {
       "type": "string"
     },
-    "adress": {
-      "type": "text"
+    "address": {
+      "type": "string"
     }
   }
 }
